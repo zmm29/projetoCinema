@@ -1,0 +1,23 @@
+p.hoje{
+    color: darkgreen;
+}
+
+p.amanha{
+    color: darkblue;
+}
+
+a{
+    text-decoration: none;
+}
+
+a.cidade {
+    color: royalblue;
+    text-decoration: none;
+}
+
+body{
+    font-family: Arial;
+}
+p{
+    font-size: 20px;
+}
